@@ -1,5 +1,6 @@
 nginx
 #支持私库
 mysql:5.7 
+redis
 #支持指定架构
 
