@@ -3,5 +3,6 @@ nginx
 mysql:5.7 
 redis
 nacos/nacos-server
+minio/minio
 #支持指定架构
 
