@@ -4,5 +4,6 @@ mysql:5.7
 redis
 nacos/nacos-server
 minio/minio
+minio/mc
 #支持指定架构
 
